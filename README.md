@@ -53,3 +53,12 @@ Moving forward, we plan to continue to grow our network of local charities and n
 - javascript
 - python
 - react
+  
+
+![gallery-1](https://github.com/benjaminsmeyer/GiveBack/assets/88737362/6d31485d-ce6b-486d-9bf5-b94822bb6a8d)
+![gallery](https://github.com/benjaminsmeyer/GiveBack/assets/88737362/c2497114-e4e4-47e1-b548-7899737d444f)
+![original-1](https://github.com/benjaminsmeyer/GiveBack/assets/88737362/e039e0e4-ec7d-4d84-8cfc-eb929c84cd28)
+![original-2](https://github.com/benjaminsmeyer/GiveBack/assets/88737362/364ab725-6a6c-4735-98eb-cf6433c4a615)
+![original-3](https://github.com/benjaminsmeyer/GiveBack/assets/88737362/e6abcef7-06a0-4065-a4d6-ddaa87cab926)
+![original-4](https://github.com/benjaminsmeyer/GiveBack/assets/88737362/e8ef8de6-dc4c-460d-b935-4e37a89a5650)
+![original](https://github.com/benjaminsmeyer/GiveBack/assets/88737362/05d23ece-6f08-4db6-bfe3-52cccca5b6a2)
